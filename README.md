@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/vishwasnarayan2345/1234/_apis/build/status/staticwebapp1.git?branchName=main)](https://dev.azure.com/vishwasnarayan2345/1234/_build/latest?definitionId=14&branchName=main)
